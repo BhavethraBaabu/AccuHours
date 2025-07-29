@@ -48,7 +48,7 @@
 ## 🛠️ Setup Locally (Optional)
 
 ```bash
-git clone https://github.com/yourusername/accuhours.git
+git clone https://github.com/BhavethraBaabu/accuhours.git
 cd accuhours
 pip install -r requirements.txt
 streamlit run app.py
